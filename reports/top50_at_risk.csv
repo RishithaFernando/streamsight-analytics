@@ -1,0 +1,51 @@
+subscriber_id,snapshot_date,churn_probability,risk_rank,risk_band,top_drivers,model_name,scored_at
+4190,2026-09-30,0.6541,1,High,Active days (30d) (low); Days since last session (high); Failed payments (30d) (high),logistic_regression,2026-10-17 00:25:13.809216
+4189,2026-09-30,0.5899,2,High,Active days (30d) (low); Failed payments (30d) (high); Days since last session (high),logistic_regression,2026-10-17 00:25:13.809216
+4247,2026-09-30,0.5706,3,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+4982,2026-09-30,0.5199,4,High,Active days (30d) (low); Channel: Paid Ads; Sessions (prior 30d) (low),logistic_regression,2026-10-17 00:25:13.809216
+4959,2026-09-30,0.5138,5,High,Active days (30d) (low); Channel: Paid Ads; Days since last session (high),logistic_regression,2026-10-17 00:25:13.809216
+4453,2026-09-30,0.5136,6,High,Active days (30d) (low); Support tickets (30d) (high); Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+3607,2026-09-30,0.5081,7,High,Active days (30d) (low); Days since last session (high); Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+4569,2026-09-30,0.4575,8,High,Active days (30d) (low); Support tickets (30d) (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+4939,2026-09-30,0.4552,9,High,Active days (30d) (low); Days since last session (high); Sessions (prior 30d) (low),logistic_regression,2026-10-17 00:25:13.809216
+4466,2026-09-30,0.4509,10,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+2943,2026-09-30,0.445,11,High,Active days (30d) (low); Support tickets (30d) (high); Days since last session (high),logistic_regression,2026-10-17 00:25:13.809216
+4153,2026-09-30,0.4441,12,High,Active days (30d) (low); Failed payments (30d) (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+4752,2026-09-30,0.4441,13,High,Active days (30d) (low); Country: Sri Lanka; Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+4972,2026-09-30,0.4366,14,High,Active days (30d) (low); Country: Sri Lanka; Sessions (prior 30d) (low),logistic_regression,2026-10-17 00:25:13.809216
+3761,2026-09-30,0.4336,15,High,Active days (30d) (low); Failed payments (30d) (high); Support tickets (30d) (high),logistic_regression,2026-10-17 00:25:13.809216
+2163,2026-09-30,0.4296,16,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+3473,2026-09-30,0.4271,17,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+3087,2026-09-30,0.423,18,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+4751,2026-09-30,0.4212,19,High,Support tickets (30d) (high); Active days (30d) (low); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+4913,2026-09-30,0.4192,20,High,Active days (30d) (low); Country: Sri Lanka; Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+2025,2026-09-30,0.419,21,High,Active days (30d) (low); Days since last session (high); Support tickets (30d) (high),logistic_regression,2026-10-17 00:25:13.809216
+4971,2026-09-30,0.4057,22,High,Active days (30d) (low); Sessions (prior 30d) (low); Country: India,logistic_regression,2026-10-17 00:25:13.809216
+4484,2026-09-30,0.4025,23,High,Active days (30d) (low); Days since last session (high); Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+4951,2026-09-30,0.4021,24,High,Active days (30d) (low); Channel: Paid Ads; Sessions (prior 30d) (low),logistic_regression,2026-10-17 00:25:13.809216
+2829,2026-09-30,0.4019,25,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+4978,2026-09-30,0.3979,26,High,Active days (30d) (low); Country: Sri Lanka; Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+4312,2026-09-30,0.3939,27,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+4929,2026-09-30,0.3912,28,High,Active days (30d) (low); Failed payments (30d) (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+3419,2026-09-30,0.3878,29,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+2661,2026-09-30,0.3861,30,High,Active days (30d) (low); Days since last session (high); Support tickets (30d) (high),logistic_regression,2026-10-17 00:25:13.809216
+4184,2026-09-30,0.382,31,High,Active days (30d) (low); Days since last session (high); Country: India,logistic_regression,2026-10-17 00:25:13.809216
+4997,2026-09-30,0.382,32,High,Active days (30d) (low); Failed payments (30d) (high); Sessions (prior 30d) (low),logistic_regression,2026-10-17 00:25:13.809216
+4103,2026-09-30,0.3819,33,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+2830,2026-09-30,0.3818,34,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+4549,2026-09-30,0.3818,35,High,Active days (30d) (low); Failed payments (30d) (high); Country: India,logistic_regression,2026-10-17 00:25:13.809216
+4032,2026-09-30,0.3751,36,High,Active days (30d) (low); Days since last session (high); Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+4559,2026-09-30,0.3712,37,High,Active days (30d) (low); Support tickets (30d) (high); Days since last session (high),logistic_regression,2026-10-17 00:25:13.809216
+4946,2026-09-30,0.3661,38,High,Active days (30d) (low); Failed payments (30d) (high); Sessions (prior 30d) (low),logistic_regression,2026-10-17 00:25:13.809216
+4936,2026-09-30,0.3642,39,High,Active days (30d) (low); Channel: Paid Ads; Sessions (prior 30d) (low),logistic_regression,2026-10-17 00:25:13.809216
+1771,2026-09-30,0.3635,40,High,Failed payments (30d) (high); Support tickets (30d) (high); Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+4942,2026-09-30,0.3609,41,High,Active days (30d) (low); Days since last session (high); Sessions (prior 30d) (low),logistic_regression,2026-10-17 00:25:13.809216
+3140,2026-09-30,0.358,42,High,Active days (30d) (low); Country: Sri Lanka; Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+4740,2026-09-30,0.3578,43,High,Active days (30d) (low); Days since last session (high); Channel: Paid Ads,logistic_regression,2026-10-17 00:25:13.809216
+4433,2026-09-30,0.3573,44,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+2672,2026-09-30,0.3572,45,High,Active days (30d) (low); Days since last session (high); Country: India,logistic_regression,2026-10-17 00:25:13.809216
+1002,2026-09-30,0.357,46,High,Active days (30d) (low); Failed payments (30d) (high); Days since last session (high),logistic_regression,2026-10-17 00:25:13.809216
+4973,2026-09-30,0.356,47,High,Active days (30d) (low); Channel: Paid Ads; Sessions (prior 30d) (low),logistic_regression,2026-10-17 00:25:13.809216
+904,2026-09-30,0.3535,48,High,Failed payments (30d) (high); Active days (30d) (low); Support tickets (30d) (high),logistic_regression,2026-10-17 00:25:13.809216
+4501,2026-09-30,0.3533,49,High,Active days (30d) (low); Days since last session (high); Country: Sri Lanka,logistic_regression,2026-10-17 00:25:13.809216
+4154,2026-09-30,0.3523,50,High,Active days (30d) (low); Days since last session (high); Country: India,logistic_regression,2026-10-17 00:25:13.809216
